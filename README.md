@@ -88,7 +88,7 @@ Para avaliar os modelos, acesse o trabalho, clique na aba Modelos + trabalhos fi
 
 <p align="center">
   <img src="./imagens/acessando_trabalho.png" width="500">
-  <img src="./imagens/selecionando_modelos.png" width="500">
+  <img src="./imagens/selecionando_modelos_v2.png" width="500">
   <img src="./imagens/verificando_metricas.png" width="500">
 </p>
 
