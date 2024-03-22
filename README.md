@@ -70,6 +70,28 @@ Determine a opção de computação da tarefa, envie o trabalho para ser realiza
 
 ## Verificando encerramento do trabalho
 
+Para verificar o estado do trabalho, acesse a aba "jobs" na barra lateral esquerda.
+
+<p align="center">
+  <img src="./imagens/aba_jobs.png" width="250">
+</p>
+
+Quando ele estiver encerrado, seu status estará como Concluído em verde.
+
+<p align="center">
+  <img src="./imagens/trabalho_concluido.png" width="500">
+</p>
+
 ## Avaliando modelos
 
-## COnclusão
+Para avaliar os modelos, acesse o trabalho, clique na aba Modelos + trabalhos filho e clique na aba Métricas. Além disso, é possível avaliar as métricas do treinamento e comparar os modelos.
+
+<p align="center">
+  <img src="./imagens/acessando_trabalho.png" width="500">
+  <img src="./imagens/selecionando_modelos.png" width="500">
+  <img src="./imagens/verificando_metricas.png" width="500">
+</p>
+
+## Conclusão
+
+Portanto, foi possível treinar três modelos de regressão para predizer o custo de alguguel de biclicletas e de acordo com a métrica _NormalizedRootMeanSquaredError_ o modelo combinado _VotingEnsemble_ apresentou o menor erro.
