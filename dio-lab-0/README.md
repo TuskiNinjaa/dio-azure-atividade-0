@@ -1,4 +1,4 @@
-# dio-azure-atividade-0
+# dio-lab-0
 Trabalhando com Machine Learning na prática no Azure ML.
 
 O foco deste trabalho é treinar um modelo de regressão usando o serviço de computação em núvem do Azure Machine Learning. O conjunto de dados utilizado está presente em [LINK](https://aka.ms/bike-rentals).
