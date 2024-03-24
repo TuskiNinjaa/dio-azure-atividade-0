@@ -59,3 +59,7 @@ Resultado obtido:
 <p align="center">
   <img src="./imagens/resultado_2.png" width="75%">
 </p>
+
+## Conclusão
+
+Portanto, foi possivel testar três serviços de visão computacional, que já estão implementados no Azure ML.
