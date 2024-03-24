@@ -32,10 +32,9 @@ Resultado obtido:
   <img src="./imagens/resultado_0.png" width="75%">
 </p>
 
-
 ## Testando o serviço de extração de texto
 
-Busque pela tarefa de extração de texto em uma imagem (*EXtract text from images*).
+Busque pela tarefa de extração de texto em uma imagem (*Extract text from images*).
 
 <p align="center">
   <img src="./imagens/selecionando_tarefa_1.png" width="45%">
@@ -45,4 +44,18 @@ Resultado obtido:
 
 <p align="center">
   <img src="./imagens/resultado_1.png" width="75%">
+</p>
+
+## Testando o serviço de descrição de imagens
+
+Busque pela tarefa de descrição de uma imagem (*Add captions to images*).
+
+<p align="center">
+  <img src="./imagens/selecionando_tarefa_2.png" width="45%">
+</p>
+
+Resultado obtido:
+
+<p align="center">
+  <img src="./imagens/resultado_2.png" width="75%">
 </p>
