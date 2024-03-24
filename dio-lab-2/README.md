@@ -15,7 +15,7 @@ Em seguida, acesse o [Speech Studio](https://speech.microsoft.com/portal) para a
   <img src="./imagens/selecionando_recurso.png" width="45%">
 </p>
 
-## Testando o serviço de reconhecimento de fala
+## Testando o serviço de conversão de fala para texto.
 
 Foi selecionado o serviço de conversão de fala para texto, chamado Conversão de fala em texto em tempo real.
 
@@ -23,11 +23,10 @@ Foi selecionado o serviço de conversão de fala para texto, chamado Conversão 
   <img src="./imagens/selecionando_tarefa_0.png" width="45%">
 </p>
 
-Resultado obtido usando o [arquivo](./inputs/voicelines.mp3):
+Resultado obtido usando o [arquivo](./inputs/voicelines.mp3) em inglês:
 
 <p align="center">
   <img src="./imagens/resultado_0.png" width="75%">
 </p>
 
-
-
+## 
