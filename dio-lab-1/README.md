@@ -20,7 +20,7 @@ Em seguida, acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/g
 
 ## Testando o serviço de detecção de faces
 
-Busque pela tarefa de detecção de faces em uma imagem.
+Busque pela tarefa de detecção de faces em uma imagem (*Detect faces in an image*).
 
 <p align="center">
   <img src="./imagens/selecionando_tarefa_0.png" width="45%">
@@ -35,7 +35,7 @@ Resultado obtido:
 
 ## Testando o serviço de extração de texto
 
-Busque pela tarefa de extração de texto em uma imagem.
+Busque pela tarefa de extração de texto em uma imagem (*EXtract text from images*).
 
 <p align="center">
   <img src="./imagens/selecionando_tarefa_1.png" width="45%">
