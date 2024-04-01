@@ -36,10 +36,37 @@ Para armazenar os dados, foi criado um serviço de armazenamento, chamado _Stora
 
 ### Adicionando arquivos de teste
 
-Os arquivos de teste, fornecidos pela Microsoft, podem ser baixados neste [LINK](https://aka.ms/mslearn-coffee-reviews).
+Os arquivos de teste, fornecidos pela Microsoft, podem ser baixados neste [LINK](https://aka.ms/mslearn-coffee-reviews). A seguir, foram demonstrados os passos para adicionar os arquivos no _container_.
+
+<p align="center">
+  <img src="./imagens/adicionando_arquivos_0.png" width="45%">
+  <img src="./imagens/adicionando_arquivos_1.png" width="45%">
+  <img src="./imagens/adicionando_arquivos_2.png" width="45%">
+  <img src="./imagens/adicionando_arquivos_3.png" width="45%">
+  <img src="./imagens/adicionando_arquivos_4.png" width="45%">
+  <img src="./imagens/adicionando_arquivos_5.png" width="45%">
+  <img src="./imagens/adicionando_arquivos_6.png" width="45%">
+</p>
 
 ### Verificando arquivos
 
+O passo a seguir foca em apenas verificar se os dados estão prontos para uso. Busque na aba _Indexers_.
+
+<p align="center">
+  <img src="./imagens/verificando_arquivos_0.png" width="90%">
+</p>
+
 ## Resultados
 
+No _Search explorer_, para o index **coffe-index**, será possivel realizar algumas buscas. A primeira imagem apresenta uma busca sem filtro, retornando os dados de todos os arquivos de teste. A segunda imagem apresenta uma busca com a palavra chave **Chicago** no contexto de **localizações**, retornando quantos itens foram encontrados. E por último,
+na terceira imagem, uma busca por **sentimentos negativos**, informando a mais quantos casos foram encontrados.
+
+<p align="center">
+  <img src="./imagens/resultado_0.png" width="45%">
+  <img src="./imagens/resultado_1.png" width="45%">
+  <img src="./imagens/resultado_2.png" width="45%">
+</p>
+
 ## Conclusão
+
+Portanto, foi possível realizar a atividade de criar o ambiente de busca em arquivos com serviços de IA, que realizava analizes em uma base de textos não estruturada, que foi fornecida pela Microsoft.
